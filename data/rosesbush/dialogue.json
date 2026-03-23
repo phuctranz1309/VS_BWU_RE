@@ -1,0 +1,125 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "First you steal my things, and then you pull something like that?",
+			"boxState": "normal",
+			"portrait": "senpai-pixel",
+			"speed": 0.04,
+			"sound": "pixelText"
+		},
+		{
+			"expression": "angry",
+			"text": "Who do you think you are?",
+			"boxState": "normal",
+			"portrait": "senpai-pixel",
+			"speed": 0.04,
+			"sound": "pixelText"
+		},
+		{
+			"expression": "gasp",
+			"text": "I swear I didn't steal it!!!",
+			"boxState": "normal",
+			"portrait": "monika",
+			"speed": 0.05,
+			"sound": "pixelText"
+		},
+		{
+			"expression": "talk",
+			"text": "oh don't worry Senp, I have anoth-",
+			"boxState": "normal",
+			"portrait": "bf-pixel",
+			"speed": 0.05,
+			"sound": "pixelText"
+		},
+		{
+			"expression": "angry",
+			"text": "WHO ASKED YOU?",
+			"boxState": "normal",
+			"portrait": "senpai-pixel",
+			"speed": 0.035,
+			"sound": "pixelText"
+		},
+		{
+			"expression": "angry",
+			"text": "Now, YOU!, Give it to me!",
+			"boxState": "normal",
+			"portrait": "senpai-pixel",
+			"speed": 0.06,
+			"sound": "pixelText"
+		},
+		{
+			"expression": "sad",
+			"text": "But... but...",
+			"boxState": "normal",
+			"portrait": "monika",
+			"speed": 0.075,
+			"sound": "pixelText"
+		},
+		{
+			"expression": "gasp",
+			"text": "Why do I have to? Can you prove the mic is yours?",
+			"boxState": "normal",
+			"portrait": "monika",
+			"speed": 0.05,
+			"sound": "pixelText"
+		},
+		{
+			"expression": "bwuh",
+			"text": "You serious, girl?",
+			"boxState": "normal",
+			"portrait": "senpai-pixel",
+			"speed": 0.04,
+			"sound": "pixelText"
+		},
+		{
+			"expression": "angry",
+			"text": "I said it's MY mic, so it's MINE!",
+			"boxState": "normal",
+			"portrait": "senpai-pixel",
+			"speed": 0.05,
+			"sound": "pixelText"
+		},
+		{
+			"expression": "mad",
+			"text": "omfg r u guys starting to fight?",
+			"boxState": "normal",
+			"portrait": "bf-pixel",
+			"speed": 0.05,
+			"sound": "pixelText"
+		},
+		{
+			"expression": "sad",
+			"text": "What do you mean? I don't want to...",
+			"boxState": "normal",
+			"portrait": "monika",
+			"speed": 0.05,
+			"sound": "pixelText"
+		},
+		{
+			"expression": "angry",
+			"text": "Well, seems like I have to teach you another lesson.",
+			"boxState": "normal",
+			"portrait": "senpai-pixel",
+			"speed": 0.05,
+			"sound": "pixelText"
+		},
+		{
+			"expression": "sad",
+			"text": "What the ...",
+			"boxState": "normal",
+			"portrait": "monika",
+			"speed": 0.05,
+			"sound": "pixelText"
+		},
+		{
+			"expression": "what",
+			"text": "._.",
+			"boxState": "normal",
+			"portrait": "bf-pixel",
+			"speed": 0.05,
+			"sound": "pixelText"
+		}
+	],
+	"style": "pixel"
+}

@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Wow, that was pretty good, right?",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bwu-talk-px"
+		},
+		{
+			"expression": "talk",
+			"text": "beep bop!",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bf-pixel"
+		},
+		{
+			"expression": "talk",
+			"text": "Yea, I know, lemme take a little break.",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bwu-talk-px"
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bf-pixel",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "okey! bep bo dep ske?"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, I forgot to introduce my self.",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bwu-talk-px"
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bwu-talk-px",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm Charles, but you can call me BoyWithUke as my stage name."
+		},
+		{
+			"expression": "talk",
+			"text": "What about you?",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bwu-talk-px"
+		},
+		{
+			"expression": "talk",
+			"text": "beep ske dop!",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.045,
+			"portrait": "bf-pixel"
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bwu-talk-px",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "'Boyfriend'? Really?"
+		},
+		{
+			"expression": "talk",
+			"text": "Anyways, Boyfriend, you look so hype and funky.",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.035,
+			"portrait": "bwu-talk-px"
+		},
+		{
+			"expression": "talk",
+			"text": "Seems like you wanna sing with me again?",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bwu-talk-px"
+		},
+		{
+			"expression": "talk",
+			"text": "go go go go!",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.04,
+			"portrait": "bf-pixel"
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.04,
+			"portrait": "bwu-talk-px",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay, here we go!"
+		}
+	],
+	"style": "pixel"
+}

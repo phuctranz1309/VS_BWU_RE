@@ -1,0 +1,61 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "brrrr yea"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bwu-talk",
+			"boxState": "normal",
+			"expression": "talk-excited",
+			"text": "Okay, okay, still getting funky, little man?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "bep bo dai"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bwu-talk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, you're getting serious now, huh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bwu-talk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay, maybe I'll be going out on you a bit."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bwu-talk",
+			"boxState": "normal",
+			"expression": "talk-smirk",
+			"text": "You're asking for it."
+		}
+	]
+}

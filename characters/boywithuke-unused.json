@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				447,
+				625
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "boywithuke_ASSETS idle"
+		},
+		{
+			"offsets": [
+				455,
+				583
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "boywithuke_ASSETS pose right"
+		},
+		{
+			"offsets": [
+				455,
+				583
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "boywithuke_ASSETS pose down"
+		},
+		{
+			"offsets": [
+				453,
+				583
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "boywithuke_ASSETS pose left"
+		},
+		{
+			"offsets": [
+				455,
+				583
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "boywithuke_ASSETS pose up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boywithuke_ASSETS",
+	"position": [
+		140,
+		0
+	],
+	"healthicon": "uke",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		111,
+		176
+	],
+	"camera_position": [
+		-300,
+		-230
+	],
+	"sing_duration": 6,
+	"scale": 0.6
+}

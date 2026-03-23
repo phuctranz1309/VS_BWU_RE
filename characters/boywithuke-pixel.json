@@ -1,0 +1,119 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [3, 0],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-1, 0],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 1],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [3, 0],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Loop-R",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Loop-U",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Loop-D",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Loop-L",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Miss-L",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Miss-R",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Miss-U",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Miss-D",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 18,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/bwu-pixel-new",
+	"position": [150, 440],
+	"healthicon": "bwu-pixel",
+	"flip_x": false,
+	"healthbar_colors": [112, 186, 213],
+	"camera_position": [-560, -460],
+	"sing_duration": 6,
+	"scale": 6,
+	"_editor_isPlayer": false
+}

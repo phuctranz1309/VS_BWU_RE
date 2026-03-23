@@ -1,0 +1,9 @@
+Toggles the animation of the background fangirls.
+
+Value 1: (Leave blank)
+Value 2: (Leave blank)
+
+Notes:
+- First trigger: Switches to "sad" (dissuaded) animation.
+- Second trigger: Switches back to "dance" (group) animation.
+- Works on any stage with "bgFreaks" sprite.

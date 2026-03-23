@@ -1,0 +1,101 @@
+{
+	"dialogue": [
+		{
+			"expression": "mad",
+			"text": "god damnit r u both done now?",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.04,
+			"portrait": "bf-pixel"
+		},
+		{
+			"expression": "mad",
+			"text": "i can give u another mic, just-",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.04,
+			"portrait": "bf-pixel"
+		},
+		{
+			"expression": "angry",
+			"text": "YOU SHUT THE F* UP!",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.045,
+			"portrait": "senpai-pixel"
+		},
+		{
+			"expression": "what",
+			"text": "rude",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bf-pixel"
+		},
+		{
+			"expression": "angry",
+			"text": "Now, GIVE ME THAT, stupid girl.",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "senpai-pixel"
+		},
+		{
+			"expression": "sad",
+			"text": "Fine...",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "monika"
+		},
+		{
+			"expression": "hmm",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "monika"
+		},
+		{
+			"expression": "uhoh",
+			"text": "ah ha, I don't think I will...",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "monika"
+		},
+		{
+			"expression": "uhoh",
+			"text": "You on the other hand-",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "monika"
+		},
+		{
+			"expression": "talk",
+			"text": "hey, this is NOT 'Doki Doki Takeover' dumbass",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.035,
+			"portrait": "bf-pixel"
+		},
+		{
+			"expression": "gasp",
+			"text": "Ah, my bad.",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "monika"
+		},
+		{
+			"expression": "bwuh",
+			"text": "what",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "senpai-pixel"
+		}
+	],
+	"style": "pixel"
+}

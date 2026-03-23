@@ -1,0 +1,109 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bwu-talk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh HEY! Didn't see you there!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bwu-talk",
+			"boxState": "normal",
+			"expression": "talk-smirk",
+			"text": "I'm BoyWithUke and today we have some very special guests!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bwu-talk",
+			"boxState": "angry",
+			"expression": "talk-excited",
+			"text": "Boyfriend and Girlfriend from Friday Night Funkin' !!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "yo!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello everyone!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bwu-talk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nice to see you guys again!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bwu-talk",
+			"boxState": "normal",
+			"expression": "talk-sigh",
+			"text": "It's been ages since we last met, right?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bwu-talk",
+			"boxState": "angry",
+			"expression": "talk-excited",
+			"text": "Anyways, now it's time to start our show!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yea!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bwu-talk",
+			"boxState": "normal",
+			"expression": "talk-smirk",
+			"text": "There we go, this song is called"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bwu-talk",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "PROBLEMATIC - from Lucid Dreams!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop"
+		}
+	]
+}

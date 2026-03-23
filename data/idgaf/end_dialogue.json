@@ -1,0 +1,93 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Oh hey, how did you know the rap verse?",
+			"boxState": "normal",
+			"portrait": "bwu-talk-px",
+			"speed": 0.05,
+			"sound": "pixelText"
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bwu-talk-px",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "That's was nice, not gonna lie."
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bf-pixel",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cool!"
+		},
+		{
+			"expression": "bruh",
+			"text": "Unfortunately, the mod is still in development.",
+			"boxState": "normal",
+			"portrait": "bwu-talk-px",
+			"speed": 0.05,
+			"sound": "pixelText"
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bf-pixel",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "phuc was ran out of idea for the third song, or may be it's still WIP"
+		},
+		{
+			"expression": "talk",
+			"text": "So we have to keep wating, right?",
+			"boxState": "normal",
+			"portrait": "bf-pixel",
+			"speed": 0.05,
+			"sound": "pixelText"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah, sorry...",
+			"boxState": "normal",
+			"portrait": "bwu-talk-px",
+			"speed": 0.05,
+			"sound": "pixelText"
+		},
+		{
+			"expression": "talk",
+			"text": "But don't panic, we still have the Tour week and some covers in Free Play",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.04,
+			"portrait": "bf-pixel"
+		},
+		{
+			"expression": "bwuh",
+			"text": "Yo, why are you worms breaking the 4th wall?",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "senpai-pixel"
+		},
+		{
+			"expression": "bruh",
+			"text": "dunno, who tf are you?",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.045,
+			"portrait": "bwu-talk-px"
+		},
+		{
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bwu-talk-px",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "By the way, thanks for play this prerelease of Hating Sim. week!"
+		}
+	],
+	"style": "pixel"
+}

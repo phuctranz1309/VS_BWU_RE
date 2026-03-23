@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [2, 0],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MkaUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [2, 0],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MkaDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [2, 0],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MkaLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [2, 0],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MkaRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [2, 0],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "SenLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [2, 0],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "SenRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [2, 0],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "SenUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [2, 0],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "SenDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [2, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FightIdle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/Duetnew",
+	"position": [190, 360],
+	"healthicon": "duet",
+	"flip_x": false,
+	"healthbar_colors": [255, 184, 227],
+	"camera_position": [-290, -280],
+	"sing_duration": 4,
+	"scale": 6,
+	"_editor_isPlayer": false
+}

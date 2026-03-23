@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [105, -101],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [100, -101],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [125, -101],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [100, -63],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [100, -126],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Boywithuke",
+	"position": [190, 0],
+	"healthicon": "uke",
+	"flip_x": false,
+	"healthbar_colors": [115, 120, 140],
+	"camera_position": [30, 60],
+	"sing_duration": 10,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

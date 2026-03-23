@@ -1,0 +1,59 @@
+import funkin.data.stage.StageRegistry;
+import funkin.play.event.SongEvent;
+import funkin.play.stage.Stage;
+import funkin.modding.module.ModuleHandler;
+import haxe.ds.StringMap;
+
+/**
+ * This is the event for the stage changer.
+ * Values are passed through the module.
+ */
+class SC_ChangeStageEvent extends SongEvent
+{
+  function new()
+  {
+    super('ChangeStage');
+  }
+
+  /**
+   * Call the stage changer module to change the stage.
+   */
+  override function handleEvent(data:SongEventData)
+  {
+    ModuleHandler.getModule('SC_StageChanger').scriptCall('swapStage', [data.value.stageid, null]);
+  }
+
+  function getEventSchema()
+  {
+    return [
+      {
+        name: "stageid",
+        title: "Stage",
+        defaultValue: "mainStage",
+        type: "enum",
+        keys: generateStageList()
+      }
+    ];
+  }
+
+  function getTitle()
+  {
+    return "Change Stage";
+  }
+
+  /**
+   * Returns the entry IDs of all stages.
+   */
+  static function generateStageList():StringMap<String, String>
+  {
+    var stageIDs:Array<String> = StageRegistry.instance.listEntryIds();
+    var stageMap:StringMap<String, String> = new StringMap();
+
+    for (stage in stageIDs)
+    {
+      var stageData:StageData = StageRegistry.instance.parseEntryDataWithMigration(stage, StageRegistry.instance.fetchEntryVersion(stage));
+      stageMap.set(stageData.name, stage);
+    }
+    return stageMap;
+  }
+}
