@@ -1,0 +1,85 @@
+{
+	"dialogue": [
+		{
+			"expression": "bruh",
+			"text": "WTF is going on?? I'm sleeping!",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.025,
+			"portrait": "bwu-talk-px"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh hey, didn't see you there!",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bwu-talk-px"
+		},
+		{
+			"expression": "talk",
+			"text": "beep!",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bf-pixel"
+		},
+		{
+			"expression": "talk",
+			"text": "Who are you?",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bwu-talk-px"
+		},
+		{
+			"expression": "talk",
+			"text": "Erm... Do you know where I am?",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bwu-talk-px"
+		},
+		{
+			"expression": "talk",
+			"text": "beep bo skoo' bep skee bop",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bf-pixel"
+		},
+		{
+			"expression": "talk",
+			"text": "what-",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.025,
+			"portrait": "bwu-talk-px"
+		},
+		{
+			"expression": "talk",
+			"text": "Anyways, I'm kinda bored, wanna sing with me a song?",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bwu-talk-px"
+		},
+		{
+			"expression": "talk",
+			"text": "Since you're holding a mic.",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bwu-talk-px"
+		},
+		{
+			"expression": "idle",
+			"text": "bep!",
+			"boxState": "normal",
+			"sound": "pixelText",
+			"speed": 0.05,
+			"portrait": "bf-pixel"
+		}
+	],
+	"style": "pixel"
+}

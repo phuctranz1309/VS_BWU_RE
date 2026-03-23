@@ -1,0 +1,61 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bwu-talk",
+			"boxState": "normal",
+			"expression": "talk-excited",
+			"text": "Heh, that's was amazing, right?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "yea!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bwu-talk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Still good as the last time we met, right?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bwu-talk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ready for the next song, lil guy?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "go go go go"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bwu-talk",
+			"boxState": "angry",
+			"expression": "talk-smirk",
+			"text": "OKAY LET'S GO!!!"
+		}
+	]
+}

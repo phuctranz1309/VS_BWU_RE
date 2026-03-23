@@ -1,0 +1,9 @@
+[
+	{
+		"description": "Simulates Kade Engine UI [script by jadiel:]",
+		"save": "kade",
+		"value": false,
+		"type": "bool",
+		"name": "Kade Engine"
+	},
+]
