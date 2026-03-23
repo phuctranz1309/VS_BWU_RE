@@ -1,0 +1,64 @@
+{
+	"position": [
+		250,
+		175
+	],
+	"dialogue_pos": "right",
+	"no_antialiasing": true,
+	"scale": 7,
+	"image": "bf-pixel",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "idle",
+			"idle_name": "idle"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "mad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "mad",
+			"idle_name": "mad"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "what",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "what",
+			"idle_name": "what"
+		},
+		{
+			"loop_name": "idle",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "idle",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bwu-talk.png">
+<SubTexture name="bwu-talk talk1-loop0000" x="373" y="695" width="369" height="662" frameX="-10" frameY="-7" frameWidth="385" frameHeight="670" />
+<SubTexture name="bwu-talk talk1-loop0001" x="1279" y="0" width="369" height="668" frameX="-11" frameY="0" frameWidth="385" frameHeight="670" />
+<SubTexture name="bwu-talk talk1-loop0002" x="0" y="695" width="373" height="667" frameX="-11" frameY="-1" frameWidth="385" frameHeight="670" />
+<SubTexture name="bwu-talk talk1-loop0003" x="0" y="695" width="373" height="667" frameX="-11" frameY="-1" frameWidth="385" frameHeight="670" />
+<SubTexture name="bwu-talk talk1-loop0004" x="0" y="695" width="373" height="667" frameX="-11" frameY="-1" frameWidth="385" frameHeight="670" />
+<SubTexture name="bwu-talk talk1-loop0005" x="0" y="695" width="373" height="667" frameX="-11" frameY="-1" frameWidth="385" frameHeight="670" />
+<SubTexture name="bwu-talk talk1-loop0006" x="0" y="695" width="373" height="667" frameX="-11" frameY="-1" frameWidth="385" frameHeight="670" />
+<SubTexture name="bwu-talk talk1-stand0000" x="0" y="695" width="373" height="667" frameX="-11" frameY="-1" frameWidth="385" frameHeight="670" />
+<SubTexture name="bwu-talk talk1-stand0001" x="0" y="695" width="373" height="667" frameX="-11" frameY="-1" frameWidth="385" frameHeight="670" />
+<SubTexture name="bwu-talk talk-2-loop0000" x="1098" y="695" width="365" height="658" frameX="0" frameY="-3" frameWidth="368" frameHeight="661" />
+<SubTexture name="bwu-talk talk-2-loop0001" x="1648" y="0" width="362" height="658" frameX="-4" frameY="-3" frameWidth="368" frameHeight="661" />
+<SubTexture name="bwu-talk talk-2-loop0002" x="1648" y="658" width="360" height="658" frameX="-6" frameY="-3" frameWidth="368" frameHeight="661" />
+<SubTexture name="bwu-talk talk-2-loop0003" x="1648" y="658" width="360" height="658" frameX="-6" frameY="-3" frameWidth="368" frameHeight="661" />
+<SubTexture name="bwu-talk talk-2-loop0004" x="742" y="695" width="356" height="661" frameX="-12" frameY="0" frameWidth="368" frameHeight="661" />
+<SubTexture name="bwu-talk talk-2-loop0005" x="742" y="695" width="356" height="661" frameX="-12" frameY="0" frameWidth="368" frameHeight="661" />
+<SubTexture name="bwu-talk talk-2-loop0006" x="742" y="695" width="356" height="661" frameX="-12" frameY="0" frameWidth="368" frameHeight="661" />
+<SubTexture name="bwu-talk talk2-stand0000" x="742" y="695" width="356" height="661" frameX="-12" frameY="0" frameWidth="368" frameHeight="661" />
+<SubTexture name="bwu-talk talk2-stand0001" x="742" y="695" width="356" height="661" frameX="-12" frameY="0" frameWidth="368" frameHeight="661" />
+<SubTexture name="bwu-talk talk3-loop0000" x="0" y="0" width="320" height="695" frameX="0" frameY="0" frameWidth="320" frameHeight="695" />
+<SubTexture name="bwu-talk talk3-loop0001" x="320" y="0" width="320" height="690" frameX="0" frameY="-5" frameWidth="320" frameHeight="695" />
+<SubTexture name="bwu-talk talk3-loop0002" x="640" y="0" width="320" height="686" frameX="0" frameY="-9" frameWidth="320" frameHeight="695" />
+<SubTexture name="bwu-talk talk3-loop0003" x="640" y="0" width="320" height="686" frameX="0" frameY="-9" frameWidth="320" frameHeight="695" />
+<SubTexture name="bwu-talk talk3-loop0004" x="960" y="0" width="319" height="679" frameX="0" frameY="-16" frameWidth="320" frameHeight="695" />
+<SubTexture name="bwu-talk talk3-loop0005" x="960" y="0" width="319" height="679" frameX="0" frameY="-16" frameWidth="320" frameHeight="695" />
+<SubTexture name="bwu-talk talk3-loop0006" x="960" y="0" width="319" height="679" frameX="0" frameY="-16" frameWidth="320" frameHeight="695" />
+<SubTexture name="bwu-talk talk3-stand0000" x="960" y="0" width="319" height="679" frameX="0" frameY="-16" frameWidth="320" frameHeight="695" />
+<SubTexture name="bwu-talk talk3-stand0001" x="960" y="0" width="319" height="679" frameX="0" frameY="-16" frameWidth="320" frameHeight="695" />
+<SubTexture name="bwu-talk talk4-loop0000" x="913" y="1362" width="319" height="621" frameX="0" frameY="-13" frameWidth="320" frameHeight="634" />
+<SubTexture name="bwu-talk talk4-loop0001" x="602" y="1362" width="311" height="624" frameX="-4" frameY="-10" frameWidth="320" frameHeight="634" />
+<SubTexture name="bwu-talk talk4-loop0002" x="299" y="1362" width="303" height="628" frameX="-8" frameY="-6" frameWidth="320" frameHeight="634" />
+<SubTexture name="bwu-talk talk4-loop0003" x="299" y="1362" width="303" height="628" frameX="-8" frameY="-6" frameWidth="320" frameHeight="634" />
+<SubTexture name="bwu-talk talk4-loop0004" x="0" y="1362" width="299" height="634" frameX="-10" frameY="0" frameWidth="320" frameHeight="634" />
+<SubTexture name="bwu-talk talk4-loop0005" x="0" y="1362" width="299" height="634" frameX="-10" frameY="0" frameWidth="320" frameHeight="634" />
+<SubTexture name="bwu-talk talk4-loop0006" x="0" y="1362" width="299" height="634" frameX="-10" frameY="0" frameWidth="320" frameHeight="634" />
+<SubTexture name="bwu-talk talk4-stand0000" x="0" y="1362" width="299" height="634" frameX="-10" frameY="0" frameWidth="320" frameHeight="634" />
+<SubTexture name="bwu-talk talk4-stand0001" x="0" y="1362" width="299" height="634" frameX="-10" frameY="0" frameWidth="320" frameHeight="634" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lucid-text.png">
+<SubTexture name="idle0000" x="290" y="0" width="294" height="116" frameX="-11" frameY="-9" frameWidth="368" frameHeight="153" />
+<SubTexture name="switch0000" x="0" y="0" width="290" height="117" frameX="-11" frameY="-9" frameWidth="368" frameHeight="153" />
+<SubTexture name="switch0001" x="0" y="0" width="290" height="117" frameX="-11" frameY="-9" frameWidth="368" frameHeight="153" />
+<SubTexture name="switch0002" x="0" y="0" width="290" height="117" frameX="-11" frameY="-9" frameWidth="368" frameHeight="153" />
+<SubTexture name="switch0003" x="0" y="0" width="290" height="117" frameX="-11" frameY="-9" frameWidth="368" frameHeight="153" />
+<SubTexture name="switch0004" x="0" y="0" width="290" height="117" frameX="-11" frameY="-9" frameWidth="368" frameHeight="153" />
+</TextureAtlas>

@@ -1,0 +1,38 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		310,
+		180
+	],
+	"no_antialiasing": true,
+	"scale": 7,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "idle",
+			"idle_name": "idle"
+		},
+		{
+			"loop_name": "bruh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bruh",
+			"anim": "bruh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bwu-talk-px"
+}

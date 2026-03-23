@@ -1,0 +1,90 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		360,
+		160
+	],
+	"no_antialiasing": true,
+	"scale": 7,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "neutral",
+			"idle_name": "neutral"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "hmm",
+			"loop_offsets": [
+				1,
+				1
+			],
+			"idle_name": "hmmm",
+			"loop_name": "hmmm"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "happy",
+			"loop_name": "happy"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "uhoh",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "uhoh",
+			"loop_name": "uhoh"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "gasp",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gasp",
+			"loop_name": "gasp"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "sad",
+			"loop_name": "sad"
+		}
+	],
+	"image": "monika"
+}

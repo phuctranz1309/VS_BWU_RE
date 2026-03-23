@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="monika.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="neutral0000" x="0" y="0" width="106" height="106"/>
+	<SubTexture name="hmmm0000" x="106" y="0" width="106" height="106"/>
+	<SubTexture name="happy0000" x="212" y="0" width="106" height="106"/>
+	<SubTexture name="uhoh0000" x="318" y="0" width="106" height="106"/>
+	<SubTexture name="gasp0000" x="0" y="106" width="106" height="106"/>
+	<SubTexture name="sad0000" x="106" y="106" width="106" height="106"/>
+</TextureAtlas>

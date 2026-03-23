@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ukepixel.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="37" y="0" width="37" height="36" frameX="1" frameY="1" frameWidth="36" frameHeight="35"/>
+	<SubTexture name="confirm0000" x="0" y="0" width="37" height="36" frameX="1" frameY="1" frameWidth="36" frameHeight="35"/>
+	<SubTexture name="confirm0001" x="0" y="36" width="37" height="35" frameX="1" frameY="0" frameWidth="36" frameHeight="35"/>
+	<SubTexture name="confirm0002" x="37" y="36" width="37" height="34" frameX="1" frameY="-1" frameWidth="36" frameHeight="35"/>
+	<SubTexture name="confirm0003" x="74" y="0" width="37" height="33" frameX="1" frameY="-2" frameWidth="36" frameHeight="35"/>
+	<SubTexture name="confirm-hold0000" x="74" y="0" width="37" height="33" frameX="1" frameY="-2" frameWidth="36" frameHeight="35"/>
+</TextureAtlas>

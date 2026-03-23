@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sero-text.png">
+<SubTexture name="idle0000" x="0" y="0" width="223" height="75" frameX="-3" frameY="-24" frameWidth="234" frameHeight="133" />
+<SubTexture name="idle0001" x="0" y="0" width="223" height="75" frameX="-3" frameY="-24" frameWidth="234" frameHeight="133" />
+<SubTexture name="idle0002" x="0" y="0" width="223" height="75" frameX="-3" frameY="-24" frameWidth="234" frameHeight="133" />
+<SubTexture name="idle0003" x="0" y="0" width="223" height="75" frameX="-3" frameY="-24" frameWidth="234" frameHeight="133" />
+<SubTexture name="switch0000" x="0" y="75" width="223" height="75" frameX="-3" frameY="-24" frameWidth="234" frameHeight="133" />
+<SubTexture name="switch0001" x="0" y="75" width="223" height="75" frameX="-3" frameY="-24" frameWidth="234" frameHeight="133" />
+<SubTexture name="switch0002" x="0" y="75" width="223" height="75" frameX="-3" frameY="-24" frameWidth="234" frameHeight="133" />
+<SubTexture name="switch0003" x="0" y="75" width="223" height="75" frameX="-3" frameY="-24" frameWidth="234" frameHeight="133" />
+<SubTexture name="switch0004" x="0" y="75" width="223" height="75" frameX="-3" frameY="-24" frameWidth="234" frameHeight="133" />
+</TextureAtlas>

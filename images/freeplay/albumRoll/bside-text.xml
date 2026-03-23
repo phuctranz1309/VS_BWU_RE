@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bside-text.png">
+<SubTexture name="idle0000" x="0" y="121" width="297" height="111" frameX="-11" frameY="-8" frameWidth="341" frameHeight="148" />
+<SubTexture name="switch0000" x="0" y="0" width="306" height="121" frameX="-8" frameY="-5" frameWidth="341" frameHeight="148" />
+<SubTexture name="switch0001" x="0" y="0" width="306" height="121" frameX="-8" frameY="-5" frameWidth="341" frameHeight="148" />
+<SubTexture name="switch0002" x="0" y="0" width="306" height="121" frameX="-8" frameY="-5" frameWidth="341" frameHeight="148" />
+<SubTexture name="switch0003" x="0" y="0" width="306" height="121" frameX="-8" frameY="-5" frameWidth="341" frameHeight="148" />
+<SubTexture name="switch0004" x="0" y="0" width="306" height="121" frameX="-8" frameY="-5" frameWidth="341" frameHeight="148" />
+</TextureAtlas>

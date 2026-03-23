@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bwu-talk-px.png">
+<SubTexture name="idle0000" x="0" y="61" width="49" height="61" frameX="-8" frameY="-12" frameWidth="61" frameHeight="70" />
+<SubTexture name="bruh0000" x="0" y="0" width="48" height="61" frameX="-9" frameY="-12" frameWidth="61" frameHeight="70" />
+</TextureAtlas>

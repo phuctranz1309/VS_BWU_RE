@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		110,
+		0
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "bwu-talk talk1-loop",
+			"idle_name": "bwu-talk talk1-stand"
+		},
+		{
+			"loop_name": "bwu-talk talk-2-loop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bwu-talk talk-2-stand",
+			"anim": "talk-smirk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bwu-talk talk3-loop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bwu-talk talk3-stand",
+			"anim": "talk-excited",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bwu-talk talk4-loop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bwu-talk talk4-stand ",
+			"anim": "talk-sigh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bwu-talk"
+}
